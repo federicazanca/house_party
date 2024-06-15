@@ -1,7 +1,4 @@
 node_modules
 .vscode
-__pycache__/
-*.pyc
-*.swo
-*.swp
-*.xml
+__pycache__
+
