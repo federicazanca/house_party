@@ -1,0 +1,10 @@
+name: house_party
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python  
+  - django
+  - djangorestframework
+  - nodejs  
+
