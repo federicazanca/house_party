@@ -3,5 +3,7 @@ from django.urls import path, include
 
 #Admin is already defined, the rest we are defining
 urlpatterns = [
-    path('', index)
+    path('', index),
+    path('join', index),
+    path('create',index)
 ]
